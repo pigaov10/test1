@@ -1,0 +1,9 @@
+customer/models.py:5:1: E302 expected 2 blank lines, found 1
+customer/models.py:14:42: E231 missing whitespace after ','
+customer/tests.py:12:27: E231 missing whitespace after ','
+customer/views.py:7:1: E302 expected 2 blank lines, found 1
+customer/views.py:13:26: E231 missing whitespace after ','
+customer/views.py:13:48: E231 missing whitespace after ','
+customer/migrations/0001_initial.py:20:80: E501 line too long (114 > 79 characters)
+customer/migrations/0001_initial.py:28:80: E501 line too long (114 > 79 characters)
+customer/migrations/0001_initial.py:31:80: E501 line too long (117 > 79 characters)

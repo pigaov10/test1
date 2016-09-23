@@ -1,0 +1,9 @@
+{% if data %}
+    <ul>
+    {% for d in data %}
+        <li><a href="/detail/{{ d.name }}/">{{ d.name }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}

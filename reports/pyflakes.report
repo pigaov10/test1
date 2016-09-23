@@ -1,0 +1,4 @@
+customer/tests.py:1: [E] PYFLAKES:'datetime' imported but unused
+customer/tests.py:4: [E] PYFLAKES:'django.utils.timezone' imported but unused
+customer/tests.py:6: [E] PYFLAKES:'.models.Customer' imported but unused
+customer/views.py:2: [E] PYFLAKES:'django.http.HttpResponse' imported but unused
